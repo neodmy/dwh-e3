@@ -1,0 +1,11 @@
+Salida Mapper
+2020/05/11,Categoria,Producto 22
+2020/05/11,Categoria,Producto 24
+2020/05/11,Categoria,Producto 19
+
+Entrade Reducer
+2020/05/11,Categoria,Producto, [22,24,19, 18, 19, 22] 
+2020/05/11,Categoria,Producto, [22,24,19, 18, 19, 22]
+
+Salida Reducer
+2020/05/11-Categoria-Producto 22
