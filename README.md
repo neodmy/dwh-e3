@@ -23,7 +23,7 @@ The **purpose** of this Shopping Center is to know **the hour when the maximum n
 
 This project tries to provide an example of Hadoop MapReduce paradigm. It involves the following applications:
 
-- [datasetGenerator](): a simple JavaScript program to generate a dataset in csv format. By using [faker](https://www.npmjs.com/package/faker) and [node stream API](https://nodejs.org/api/stream.html), we have generated a simple dataset compose of 750,000 elements. More details about dataset elements [here](#dataset).
+- [datasetGenerator](https://github.com/neodmy/dwh-e3/tree/master/datasetGenerator): a simple JavaScript program to generate a dataset in csv format. By using [faker](https://www.npmjs.com/package/faker) and [node stream API](https://nodejs.org/api/stream.html), we have generated a simple dataset compose of 750,000 elements. More details about dataset elements [here](#dataset).
 
 - [peekHour](https://github.com/Rodriblue/dwh/tree/master/hadoop-map-reduce/peekHour): a Java program that implements Hadoop MapReduce paradigm. It will be cover in more detail in [MapReduce](#mapreduce) section.
 
